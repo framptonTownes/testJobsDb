@@ -2,7 +2,6 @@
 
 [
     {
-        "_id": "5f05f63eec23da02e448c59c",
         "job_num": "1604 Promenade at Aventura Apts",
         "import_batch": 5,
         "import_date": "2019-11-21T00:00:00.000Z",
@@ -11,7 +10,6 @@
         }
     },
     {
-        "_id": "5f05f63eec23da02e448c59d",
         "job_num": "1604 Reserve at Ashley Lake",
         "import_batch": 5,
         "import_date": "2019-11-21T00:00:00.000Z",
@@ -20,7 +18,6 @@
         }
     },
     {
-        "_id": "5f05f63eec23da02e448c59e",
         "job_num": "1604 Residences at Bayview",
         "import_batch": 5,
         "import_date": "2019-11-21T00:00:00.000Z",
@@ -29,7 +26,6 @@
         }
     },
     {
-        "_id": "5f05f63eec23da02e448c59f",
         "job_num": "1604-2 Residences at Bayview",
         "import_batch": 5,
         "import_date": "2019-11-21T00:00:00.000Z",
@@ -38,7 +34,6 @@
         }
     },
     {
-        "_id": "5f05f63eec23da02e448c5a0",
         "job_num": "2016-02 Coconut Palm Club",
         "import_batch": 5,
         "import_date": "2019-11-21T00:00:00.000Z",
@@ -47,7 +42,6 @@
         }
     },
     {
-        "_id": "5f05f63eec23da02e448c5a1",
         "job_num": "2016-02 Cove at Boynton Beach",
         "import_batch": 5,
         "import_date": "2019-11-21T00:00:00.000Z",
