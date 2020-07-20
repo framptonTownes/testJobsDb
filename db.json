@@ -8,12 +8,6 @@
         "import_date": "2019-11-21T00:00:00.000Z",
         "qb_cost": {
             "$numberDecimal": "0.00"
-        },
-        "qb_revenue": {
-            "$numberDecimal": "250.00"
-        },
-        "qb_profit": {
-            "$numberDecimal": "250.00"
         }
     },
     {
@@ -23,12 +17,6 @@
         "import_date": "2019-11-21T00:00:00.000Z",
         "qb_cost": {
             "$numberDecimal": "11987.94"
-        },
-        "qb_revenue": {
-            "$numberDecimal": "10894.00"
-        },
-        "qb_profit": {
-            "$numberDecimal": "-1093.94"
         }
     },
     {
@@ -38,12 +26,6 @@
         "import_date": "2019-11-21T00:00:00.000Z",
         "qb_cost": {
             "$numberDecimal": "0.00"
-        },
-        "qb_revenue": {
-            "$numberDecimal": "350.00"
-        },
-        "qb_profit": {
-            "$numberDecimal": "350.00"
         }
     },
     {
@@ -53,12 +35,6 @@
         "import_date": "2019-11-21T00:00:00.000Z",
         "qb_cost": {
             "$numberDecimal": "0.00"
-        },
-        "qb_revenue": {
-            "$numberDecimal": "285.00"
-        },
-        "qb_profit": {
-            "$numberDecimal": "285.00"
         }
     },
     {
@@ -68,12 +44,6 @@
         "import_date": "2019-11-21T00:00:00.000Z",
         "qb_cost": {
             "$numberDecimal": "1410.72"
-        },
-        "qb_revenue": {
-            "$numberDecimal": "1903.50"
-        },
-        "qb_profit": {
-            "$numberDecimal": "492.78"
         }
     },
     {
@@ -83,12 +53,6 @@
         "import_date": "2019-11-21T00:00:00.000Z",
         "qb_cost": {
             "$numberDecimal": "3040.30"
-        },
-        "qb_revenue": {
-            "$numberDecimal": "3800.38"
-        },
-        "qb_profit": {
-            "$numberDecimal": "760.08"
         }
     }
 ]
